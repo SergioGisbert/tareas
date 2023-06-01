@@ -9,3 +9,6 @@ input{
 .form-control-lg{
     font-size: 1.8rem;
 }
+.cursor{
+    cursor: pointer;
+}
